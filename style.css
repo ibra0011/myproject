@@ -1,4 +1,7 @@
 h1{
-    color: red;
+    color: white;
     font-family: Robot;
+}
+body{
+    background-color: gray;
 }
